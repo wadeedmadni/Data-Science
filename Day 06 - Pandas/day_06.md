@@ -1,4 +1,4 @@
-# Day 05 / Day 60 💻
+# Day 06 / Day 60 💻
 ## Pandas 🐼
 ![pandas_logo](https://miro.medium.com/v2/resize:fit:481/1*n_ms1q5YoHAQXXUIfeADKQ.png)\
 \
