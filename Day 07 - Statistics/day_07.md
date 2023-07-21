@@ -7,7 +7,7 @@
 * Currency/crypto/shares prediction
 * Salary prediction
 
-### **1. Languauge of Statistics****
+### **1. Languauge of Statistics**
 Graphs, Plots, visualizations
 
 What are the aspect of statistics in the following?

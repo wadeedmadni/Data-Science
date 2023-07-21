@@ -32,3 +32,5 @@ df = pd.read_csv("path_to_file")
 ### **_Adding image via URL_**
 ---
 ![data_scienceImage](https://realpython.com/cdn-cgi/image/width=960,format=auto/https://files.realpython.com/media/Build-Your-Python-Project-Documentation-With-MkDocs_Watermarked.5a882c215e55.jpg)
+
+[![Wadeed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wadeedmadni&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
