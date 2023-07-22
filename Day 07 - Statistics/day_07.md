@@ -109,7 +109,7 @@ statistics.multimode(["few", "few", "many", "some", "many"])
 Example:
 Data from 100 shops in a town
 
-![Bell Curve Example](bellcurveexample.jpg)
+![Bell Curve Example](../bellcurveexample.jpg)
 
 We need to check standard deviation or dispertion as well along with mean
 
