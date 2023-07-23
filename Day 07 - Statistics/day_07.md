@@ -115,6 +115,17 @@ We need to check standard deviation or dispertion as well along with mean
 
 **Mean with Standard Deviation is more useful than just Mean**
 
+## **Fundamentals of Visualization**
+
+|Categorical Variables| Continious Variables|
+|:---:|:---:|
+|**Counts** _(plot types)_|**Scatter Plot**|
+|Male vs female, True vs False| Statistical Proportions (means and their comparisions)|
+|No numerical meaning|Numerical meaning|
+
+## **Plotting Guide by Dr. Andrew Abela**
+![Plot Guide](../plotguide.png)
+
 
 
 
