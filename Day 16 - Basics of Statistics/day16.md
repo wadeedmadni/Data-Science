@@ -41,6 +41,19 @@
             |:---:|:---:|:---:|
             |Purpose: Comparison|Comparison|Relationship|
             |Categorical Only|Categorical & Continous|Continous|
+        * **Chi-Squared:** How many males and females
+        * **t-Test/ANOVA:** 
+            * **One-Sample t-Test:** If the standard height is 5.5ft then how much height is of females from it and male's 
+            height. (One sample group with a known mean (5.5ft height) )
+            * **Two-Sample t-Test:**
+                * Un-Paired t-test: comparison of height of males and females (Two different group) 
+                * Paired t-test: difference of heights of female in USA and in Canada OR Marks of students of class 8-B in English and in Statistics (Same group twice)
+        * **ANOVA:** Analysis of Variance (3+ levels or groups) 
+        * **Correlation:** Tells us how closely two variable are connected  
+            * Pearson's Coreelation: 1 dependent and 1 independent variable (how food is affecting weight)
+            * Regression: 1 dependent and 1 independent variable (food in independet)
+
+
 
 
 
