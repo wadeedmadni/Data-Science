@@ -53,7 +53,12 @@
             * Pearson's Coreelation: 1 dependent and 1 independent variable (how food is affecting weight)
             * Regression: 1 dependent and 1 independent variable (food in independet)
 
-            Example
+    * ❗ **Your Data must be normally distributed**
+    * **If your data is not normalized:**
+        * Standardization
+        * Minn-Max Scaling
+        * Log Transformation
+        * Use Alternate Non-parametic Tests 
 
 
 
