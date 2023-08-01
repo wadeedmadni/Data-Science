@@ -60,7 +60,7 @@
         * Log Transformation
         * Use Alternate Non-parametic Tests 
 
-
+![Flowchart](\..\Flowchart.jpg)
 
 
             
