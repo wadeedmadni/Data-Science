@@ -1,7 +1,6 @@
 # Day 06 / Day 60 💻
-## Pandas 🐼
-![pandas_logo](https://miro.medium.com/v2/resize:fit:481/1*n_ms1q5YoHAQXXUIfeADKQ.png)\
-\
+## Pandas 🐼 [![Tensorflow Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
 Today I learned about the basics of Pandas
 
 # **Table of Contents**

@@ -1,9 +1,10 @@
 # Day 05 / Day 60 💻
+## Markdown [![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 > Today I learned about the basics of Markdown:
 * This is also just testing of different operation whihc markdown can perform.
 
 ---
-#### I am learning data science from [Youtube](www.youtube.com) 🌐
+#### I am learning data science from [Youtube](www.youtube.com) 🌐 ![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white)
 - There are thousands of youtube channels who teach python and data science in different languages but moslty are in english as it is spoken world wide.
 
 ## Now were are testing images with links here
