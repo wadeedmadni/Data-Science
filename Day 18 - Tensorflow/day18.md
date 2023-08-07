@@ -4,7 +4,10 @@
 ## 🤖 Machine Learning
 Machine Learning makes the rules for us. 👇
 
-![Machine Learning Model](https://inlocrobotics.com/wp-content/uploads/2021/03/classical-programming-vs-machine-learning.jpg)
+<p align="center">
+<img src="https://inlocrobotics.com/wp-content/uploads/2021/03/classical-programming-vs-machine-learning.jpg" width="600" height="400">
+</p>
+
 
 **GOAL:** Acieve highest accuracy possible
 
