@@ -160,4 +160,33 @@ To evaluate a tensor, we need to create a [session](#2-sessions)
 ```python
 with tf.Session() as sess:
     tesnor.eval() # tesnor = name of your tensor
+``` 
+
+---
+
+# ⚔️ **Tensorflow's Core Learning Algorithms**
+The algorithms on which we will focus are:
+1. Linear Regression
+2. Classification
+3. Clustering
+4. Hidden Markov Models
+
+  ### **1. Linear Regression**
+  * Most basic for m of machine leanring
+  * Used to predict numerical values
+```python
+plt.plot(x, y, 'ro')
+plt.axis([0, 6, 0, 20])
+plt.plot(np.unique(x), np.poly1d(np.polyfit(x, y, 1))(np.unique(x)))
+plt.show()
 ```
+<p align = "center">
+<img src = "best-fit.png" width = "400" >
+</p>
+
+
+"**Line of best fit** refers to a line through a scatter plot of data points that best expresses the relationship between those points." [source](https://www.investopedia.com/terms/l/line-of-best-fit.asp)
+
+Here's a refresher on the equation of a line in 2D.
+
+$ y = mx + b $
